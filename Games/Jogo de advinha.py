@@ -19,3 +19,5 @@ while r!= c:
       print('-' * 40)
 print('\033[32mPARABÉNS você ACERTOU com {} tentativas!\033[m'.format(contr+1))
 print('-'*40)
+
+print("qualquer coisa")
